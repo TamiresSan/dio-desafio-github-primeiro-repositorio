@@ -15,9 +15,9 @@ Repositório criado para o Desafio de Projeto
  :-------| --------:
  Prepare-se para a Jornada | x
  Princípios de Desenvolvimento de Software|x
- Primeiras Páginas Interativas com JavaScript|--
- Dominando Algoritmos Básicos com Desafios de Códigos JavaScript|--
- Começando a Biblioteca React|--
+ Primeiras Páginas Interativas com JavaScript|x
+ Dominando Algoritmos Básicos com Desafios de Códigos JavaScript|x
+ Começando a Biblioteca React|x
  Dominando Algoritmos Intermediários com Desafios de Código JavaScript|--
  Fortalecendo sua Carreira Profissional|--
 ## Links Úteis
